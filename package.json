@@ -1,0 +1,27 @@
+{
+  "name": "folder-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build",
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "typescript": "^5.6.3",
+    "vite": "^4.5.5"
+  },
+  "dependencies": {
+    "@radix-ui/themes": "^3.1.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "shadcn": "^2.1.6",
+    "styled-components": "^6.1.13"
+  }
+}
